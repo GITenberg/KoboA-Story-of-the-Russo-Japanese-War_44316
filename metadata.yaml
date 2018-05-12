@@ -1,0 +1,38 @@
+_repo: KoboA-Story-of-the-Russo-Japanese-War_44316
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, W.
+    - Rainey, H. W. (H. William)
+    - Rainey, William
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 44316-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+description: ''
+gutenberg_issued: '2013-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Russo-Japanese War, 1904-1905 -- Juvenile fiction'
+title: 'Kobo: A Story of the Russo-Japanese War'
+url: http://www.gutenberg.org/ebooks/44316
