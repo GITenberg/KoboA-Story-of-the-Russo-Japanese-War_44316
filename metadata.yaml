@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44316#KoboA-Story-of-the-Russo-Japanese-War
 gutenberg_issued: '2013-11-30'
 gutenberg_type: Text
 identifiers:
